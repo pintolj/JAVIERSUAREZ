@@ -26,7 +26,7 @@
   <a href="mailto:hola@javiersuarez.dev">
     <img src="https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=maildotru&logoColor=f0b429" alt="Email">
   </a>
-  <a href="https://javiersuarez.dev">
+  <a href="https://javiersuarez.vercel.app">
     <img src="https://img.shields.io/badge/Portafolio-0a1628?style=for-the-badge&logo=firefox&logoColor=22d3ee" alt="Portafolio">
   </a>
 </p>
